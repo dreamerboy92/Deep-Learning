@@ -117,10 +117,3 @@ Steps:
 Have suggestions or want to add more images/examples? Feel free to create a pull request!
 
 ---
-
-## 🖼️ Image Credits
-
-- Wikipedia Commons
-- Medium articles on deep learning
-- Author-annotated graphics
-
