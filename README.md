@@ -23,8 +23,8 @@ A **neural network** is like a simplified version of how the human brain works. 
 
 📷 _Insert an image of a neural network here_
 
-> 🖼️ Example image (use this or similar):
-> ![Neuron Diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Artificial_neuron_model.svg/1200px-Artificial_neuron_model.svg.png)
+> 🖼️ Example image (use this or similar):  
+> ![Neural Network](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Artificial_neural_network.svg/1920px-Artificial_neural_network.svg.png)
 
 ---
 
@@ -35,7 +35,7 @@ Each **neuron** does a simple calculation:
 
 Here's a visual of a neuron:
 
-> ![Neuron Diagram](https://miro.medium.com/v2/resize:fit:700/format:webp/1*Q2fO1nJtMSoOuaQ0mCKZog.png)
+> ![Neuron Diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Artificial_neuron_model.svg/1200px-Artificial_neuron_model.svg.png)
 
 - **Weights**: Tell the importance of each input.
 - **Bias**: Extra value to shift the result.
@@ -55,17 +55,20 @@ Here's a visual of a neuron:
 
 ## 🏗️ Structure of a Deep Neural Network
 
-- **Shallow Network**: 1–2 hidden layers
-- **Deep Network**: Many hidden layers
+- **Shallow Network**: 1–2 hidden layers  
+- **Deep Network**: Many hidden layers  
 - **Each layer extracts more abstract features**
 
 📷 _Insert image of a deep neural network here_
+
+> 🖼️ Example:  
+> ![Deep Neural Network](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Deep_neural_network.png/800px-Deep_neural_network.png)
 
 ---
 
 ## 📊 Training the Network
 
-Training = Learning the best weights and bias.
+Training = Learning the best weights and biases.
 
 Steps:
 1. **Forward Pass** – Input goes through the network.
@@ -115,5 +118,3 @@ Steps:
 ## 🤝 Contributing
 
 Have suggestions or want to add more images/examples? Feel free to create a pull request!
-
----
