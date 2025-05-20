@@ -24,7 +24,7 @@ A **neural network** is like a simplified version of how the human brain works. 
 📷 _Insert an image of a neural network here_
 
 > 🖼️ Example image (use this or similar):
-> ![Neural Network](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Artificial_neural_network.svg/600px-Artificial_neural_network.svg.png)
+> ![Neuron Diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Artificial_neuron_model.svg/1200px-Artificial_neuron_model.svg.png)
 
 ---
 
